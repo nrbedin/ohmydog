@@ -1,0 +1,11 @@
+C:/FlutterEstudos/ADF/ohmydog/build/windows/runner/Debug/data/icudtl.dat
+C:/FlutterEstudos/ADF/ohmydog/build/windows/runner/Debug/flutter_windows.dll
+C:/FlutterEstudos/ADF/ohmydog/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/FlutterEstudos/ADF/ohmydog/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/FlutterEstudos/ADF/ohmydog/build/windows/runner/Debug/data/flutter_assets/assets/images/logo.png
+C:/FlutterEstudos/ADF/ohmydog/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/FlutterEstudos/ADF/ohmydog/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/FlutterEstudos/ADF/ohmydog/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/FlutterEstudos/ADF/ohmydog/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/FlutterEstudos/ADF/ohmydog/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/FlutterEstudos/ADF/ohmydog/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

@@ -1,0 +1,28 @@
+^C:\FLUTTERESTUDOS\ADF\OHMYDOG\BUILD\WINDOWS\CMAKEFILES\4AF91D182E21CCDDA586CE5FE6475191\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\jhona\fvm\versions\3.13.9 PROJECT_DIR=C:\FlutterEstudos\ADF\ohmydog FLUTTER_ROOT=C:\Users\jhona\fvm\versions\3.13.9 FLUTTER_EPHEMERAL_DIR=C:\FlutterEstudos\ADF\ohmydog\windows\flutter\ephemeral PROJECT_DIR=C:\FlutterEstudos\ADF\ohmydog FLUTTER_TARGET=C:\FlutterEstudos\ADF\ohmydog\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC8wNTQ1Zjg3MDVkZjMwMTg3N2Q3ODcxMDdiYWMxYTZlOWZjOWVlMWFkLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\FlutterEstudos\ADF\ohmydog\.dart_tool\package_config.json C:/Users/jhona/fvm/versions/3.13.9/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\FLUTTERESTUDOS\ADF\OHMYDOG\BUILD\WINDOWS\CMAKEFILES\8076119F7ADE247260C3AE82A1D0B9FA\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\FLUTTERESTUDOS\ADF\OHMYDOG\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/FlutterEstudos/ADF/ohmydog/windows -BC:/FlutterEstudos/ADF/ohmydog/build/windows --check-stamp-file C:/FlutterEstudos/ADF/ohmydog/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
