@@ -74,24 +74,10 @@ device-disconnect: ## Disconnect device with adb
 	adb disconnect
 device-connect: ## Connect device to adb
 	adb connect 192.168.0.73:5555
-device-update-apk: ## Update apk
-	fvm flutter packages pub run build_runner build --delete-conflicting-outputs
-	fvm flutter clean
-	fvm flutter pub get
-	fvm flutter build apk --release
-	adb connect 192.168.0.6:6666
-	adb shell pm uninstall -k --user 0 com.accesys.mercadito.acc_checkout
-	adb install -r ./build/app/outputs/flutter-apk/app-mercadito-release.apk
-	adb disconnect
 active-adb: ## Active adm mode in device
 	adb tcpip 5555
 run-ios: ## Open xcode from build run
 	open ios/Runner.xcworkspace
-buildAndInstall:
-	make build-apk-flavor dev
-	adb shell am force-stop com.accesys.acc_checkout
-	adb install -r ./build/app/outputs/flutter-apk/app-dev-release.apk
-	adb shell am start -n com.accesys.acc_checkout/.MainActivity
 
 ###
 # Build section
