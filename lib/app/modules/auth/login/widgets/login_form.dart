@@ -58,7 +58,7 @@ class _LoginFormState extends ModularState<_LoginForm, LoginController> {
                 if (formValid) {
                 await  controller.login(loginEC.text, passwordEC.text);
                 }
-                Messages.alert('Mensagem de erro');
+                Messages.alert('Mensagem de erro',);
               },
             ),
           ],
