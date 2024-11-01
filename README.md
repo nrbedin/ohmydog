@@ -22,7 +22,7 @@ Modular
 MobX
 
 ## :briefcase: Experiências
-O desenvolvimento do OhMyDog envolveu a criação de um aplicativo eficiente para petshops, utilizando o Flutter e pacotes modernos como Modular e MobX.O sistema garante uma performance e experiência de usuário de alto nível, permitindo um gerenciamento fácil e intuitivo dos serviços para pets.
+O desenvolvimento do OhMyDog envolveu a criação de um aplicativo eficiente para petshops, utilizando o Flutter e pacotes modernos como Modular e MobX.O sistema garante uma performance e experiência de usuário, permitindo um gerenciamento fácil e intuitivo dos serviços para pets.
 
 ## :mailbox_with_mail: Contato
 Desenvolvido por Naiara Rafaela Bedin. Para saber mais sobre mim ou sobre meus projetos, entre em contato através dos links abaixo:
