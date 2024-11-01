@@ -1,6 +1,7 @@
 # ohmydog
 
-A new Flutter project.
+Aplicativo para petshop
+Desenvolvido em flutter versão 3.13.9
 
 ## Getting Started
 
