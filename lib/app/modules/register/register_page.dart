@@ -1,8 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_modular/flutter_modular.dart';
 import 'package:ohmydog/app/core/ui/extensions/size_screen_extension.dart';
 import 'package:ohmydog/app/core/ui/extensions/theme_extension.dart';
 import 'package:ohmydog/app/core/ui/widgets/button_default.dart';
 import 'package:ohmydog/app/core/ui/widgets/global_text_form_field.dart';
+import 'package:ohmydog/app/modules/register/register_controller.dart';
+import 'package:validatorless/validatorless.dart';
 part 'widgets/register_form.dart';
 class RegisterPage extends StatelessWidget {
 

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206446577598",
+    "project_id": "ohmydog-dec08",
+    "storage_bucket": "ohmydog-dec08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206446577598:android:9a80cb1749c22a60f15bef",
+        "android_client_info": {
+          "package_name": "com.example.ohmydog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLG86Af3WzqY2BcI1G1kA11XgqyTUFBNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
