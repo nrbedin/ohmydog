@@ -1,17 +1,34 @@
-# ohmydog
+# OhMyDog
 
-Aplicativo para petshop
-Desenvolvido em flutter versão 3.13.9
+## :dart: Sobre
+OhMyDog é um aplicativo para petshop desenvolvido em Flutter, utilizando Modular e MobX. Facilita agendamentos e gerenciamento de serviços para pets, proporcionando uma experiência integrada e eficiente para os clientes.
 
-## Getting Started
+Flutter version: 3.22.1
 
-This project is a starting point for a Flutter application.
+## :sparkles: Funcionalidades
+:heavy_check_mark: Agendamentos: Permite que os clientes agendem serviços para seus pets.
 
-A few resources to get you started if this is your first Flutter project:
+:heavy_check_mark: Gerenciamento de Serviços: Facilita o gerenciamento dos diversos serviços oferecidos pelo petshop.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+:heavy_check_mark: Integração Completa: Proporciona uma experiência integrada e eficiente para os clientes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :rocket: Tecnologias
+As seguintes ferramentas foram usadas na construção deste projeto:
+
+Flutter 3.22.1
+
+Modular
+
+MobX
+
+## :briefcase: Experiências
+O desenvolvimento do OhMyDog envolveu a criação de um aplicativo eficiente para petshops, utilizando o Flutter e pacotes modernos como Modular e MobX.O sistema garante uma performance e experiência de usuário de alto nível, permitindo um gerenciamento fácil e intuitivo dos serviços para pets.
+
+## :mailbox_with_mail: Contato
+Desenvolvido por Naiara Rafaela Bedin. Para saber mais sobre mim ou sobre meus projetos, entre em contato através dos links abaixo:
+
+GitHub: https://github.com/nrbedin
+
+LinkedIn: https://www.linkedin.com/in/naiara-bedin/
+
+Email: nrbedin@gmail.com
