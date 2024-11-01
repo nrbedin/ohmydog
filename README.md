@@ -5,6 +5,9 @@ OhMyDog é um aplicativo para petshop desenvolvido em Flutter, utilizando Modula
 
 Flutter version: 3.22.1
 
+## :dart: Observação
+Este aplicativo está em desenvolvimento contínuo, alinhado com meus estudos, onde estou constantemente aprimorando minhas habilidades e conhecimentos.
+
 ## :sparkles: Funcionalidades
 :heavy_check_mark: Agendamentos: Permite que os clientes agendem serviços para seus pets.
 
